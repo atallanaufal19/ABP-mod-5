@@ -1,0 +1,4 @@
+<h1>Contoh AJAX</h1>
+<p>Halo.</p>
+<p>Saya Atalla.</p>
+<p>Asal dari malang.</p>

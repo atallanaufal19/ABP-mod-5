@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Netflix>
+  <Film jenis="Movies">
+    <judul lang="en">John Wick</judul>
+    <sutradara>Chad Stahelski</sutradara>
+    <tahun>2014</tahun>
+    <rating>7.8</rating>
+  </Film>
+  <Film jenis="Series">
+    <judul lang="en">Peaky Blinder Season 1</judul>
+    <sutradara>Steven Knight</sutradara>
+    <tahun>2013</tahun>
+    <rating>8.5</rating>
+  </Film>
+  <Film jenis="Anime">
+    <judul lang="en">Naruto Shippuden</judul>
+    <sutradara>Masashi Kishimoto</sutradara>
+    <tahun>2007</tahun>
+    <rating>8.3</rating>
+  </Film>
+</Netflix>
